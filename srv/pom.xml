@@ -33,6 +33,12 @@
 			<groupId>com.sap.cds</groupId>
 			<artifactId>cds-starter-cloudfoundry</artifactId>
 		</dependency>
+        <dependency>
+            <groupId>com.sap.cloud.sdk.cloudplatform</groupId>
+            <artifactId>auditlog-scp-cf</artifactId>
+            <version>3.30.0</version>
+        </dependency>
+
 	</dependencies>
 
 	<build>
