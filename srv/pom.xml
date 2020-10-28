@@ -38,6 +38,21 @@
             <artifactId>auditlog-scp-cf</artifactId>
             <version>3.30.0</version>
         </dependency>
+		<dependency>
+            <groupId>com.sap.xs.auditlog</groupId>
+            <artifactId>audit-java-client-api</artifactId>
+            <version>2.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sap.xs.auditlog</groupId>
+            <artifactId>audit-java-client-impl</artifactId>
+            <version>2.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sap.xs.java</groupId>
+            <artifactId>xs-env</artifactId>
+            <version>1.6.9</version>
+        </dependency>
 
 	</dependencies>
 
